@@ -41,7 +41,7 @@
     <img align="center" src="http://www.w3.org/2000/svg" alt="https://www.linkedin.com/in/sajid-ahmed-46031b248/" data-canonical-src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" style="max-width: 100%; width:50px;height:50px;">
   </a>
   <a href="https://www.instagram.com/sajid6390_/" rel="nofollow">
-    <img align="center" src="https://github.com/Sajidahmed8/image/blob/b21595acd0eb565873ecdfabec089745b36c9173/instagram.png" alt="sajid6390_/" data-canonical-src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" style="max-width: 100%;width:50px;height:50px;">
+    <img align="center" src="https://github.com/Sajidahmed8/image/blob/5191615f4b315e1f307bf477cf0273f236256630/insta.png" alt="sajid6390_/" data-canonical-src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" style="max-width: 100%;width:50px;height:50px;">
   </a>
 </p>
 
