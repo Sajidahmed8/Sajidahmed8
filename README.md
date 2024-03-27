@@ -38,10 +38,10 @@
 <h2 dir="auto"><img src="https://github.com/Sajidahmed8/image/blob/main/contact.JPG" style="width:50px; max-width:100%; display: inline-block;" /> Contact with me :</h2>
 <p align="left" dir="auto">
   <a href="https://www.linkedin.com/in/sajid-ahmed-46031b248/" rel="nofollow">
-    <img align="center" src="https://github.com/Sajidahmed8/image/blob/8f131a84d4fd8476cf28febee328daad2866095d/linkedin.png" data-canonical-src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" style="max-width: 100%; width:50px;height:50px;">
+    <img align="center" src="https://github.com/Sajidahmed8/image/blob/8f131a84d4fd8476cf28febee328daad2866095d/linkedin.png" data-canonical-src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" style="max-width: 100%; width:50px;height:50px;"/>
   </a>
   <a href="https://www.instagram.com/sajid6390_/" rel="nofollow">
-    <img align="center" src="https://github.com/Sajidahmed8/image/blob/5191615f4b315e1f307bf477cf0273f236256630/insta.png" alt="sajid6390_/" data-canonical-src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" style="max-width: 100%;width:50px;height:50px;">
+    <img align="center" src="https://github.com/Sajidahmed8/image/blob/5191615f4b315e1f307bf477cf0273f236256630/insta.png" alt="sajid6390_/" data-canonical-src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" style="max-width: 100%;width:50px;height:50px;"/>
   </a>
 </p>
 
