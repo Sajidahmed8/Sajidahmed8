@@ -45,7 +45,7 @@
   </a>
 </p>
 
-<h2 dir="auto"><img src="https://github.com/Sajidahmed8/image/blob/main/profile.JPG" style="width:50px; max-width:100%; display: inline-block;"> Coding Profiles :</h2>
+<h2 dir="auto"><img src="https://github.com/Sajidahmed8/image/blob/5420392d43da5f774b2871150ca3ea5f9e76efd8/images.gif" style="width:50px; max-width:100%; display: inline-block;"> Coding Profiles :</h2>
 <p align="left" dir="auto">
   <a href="https://leetcode.com/Sajid0709/" rel="nofollow">
     <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=avif&w=256" alt="Sajid0709/" height="48" width="49">
