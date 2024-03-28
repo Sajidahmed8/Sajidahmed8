@@ -35,7 +35,7 @@
      <b><i>Work on a Major Social Media Platform</i></b> 
 - ⚡ Fun fact I think I am funny
 <br>
-<h2 dir="auto"><img src="https://github.com/Sajidahmed8/image/blob/main/contact.JPG" style="width:50px; max-width:100%; display: inline-block;" /> Contact with me :</h2>
+<h2 dir="auto"><img src="https://github.com/Sajidahmed8/image/blob/5420392d43da5f774b2871150ca3ea5f9e76efd8/contact.gif" style="width:50px; max-width:100%; display: inline-block;" /> Contact with me :</h2>
 <p align="left" dir="auto">
   <a href="https://www.linkedin.com/in/sajid-ahmed-46031b248/" rel="nofollow">
     <img align="center" src="https://github.com/Sajidahmed8/image/blob/8f131a84d4fd8476cf28febee328daad2866095d/linkedin.png" data-canonical-src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" style="max-width: 100%; width:50px;height:50px;"/>
